@@ -1,0 +1,147 @@
+{
+"InventoryItemId": 100000003850480,
+"OrganizationId" : 300000004526886,
+"CategoryCode": "ROOT_ICC",
+"ItemEFFBIPC__Item__AttributesPrivateVO": [
+{
+"ContextCode": "IPC Item Attributes",
+"oracle11iItemId": "123456789"
+}
+]
+
+
+------------------------------------------------------
+
+
+{
+    "InventoryItemId": 100000003850480,
+    "OrganizationId": 300000004526886,
+    "StyleItemId": 100000003850480,
+    "MasterOrganizationId": 300000004526886,
+    "CategoryCode": "ROOT_ICC",
+    "StyleItemFlag": null,
+    "TemplateItemFlag": "N",
+    "ItemEFFBIPC__Item__AttributesPrivateVO": {
+        "items": [
+            {
+                "ContextCode": "IPC Item Attributes",
+                "CreatedBy": "ERP_Tech_User",
+                "CreationDate": "2021-06-17T12:32:10.002+00:00",
+                "EffLineId": 300000008247944,
+                "InventoryItemId": 100000003850480,
+                "LastUpdateDate": "2021-06-17T12:32:11.582+00:00",
+                "LastUpdateLogin": "C4CE3449D8EA74EBE053961F230A113F",
+                "LastUpdatedBy": "ERP_Tech_User",
+                "OrganizationId": 300000004526886,
+                "CategoryCode": "ROOT_ICC",
+                "RaiseEvent": "Y",
+                "IsPersistentAttributeUpdated": "false",
+                "IsAddedToChildEntitiesMap": "false",
+                "IsImportCase": "false",
+                "BulkloadRecCreated": null,
+                "StageIntfTableUniqueId": null,
+                "RequestId": null,
+                "weeeBattery": null,
+                "RedLineweeeBattery": null,
+                "positionTrackable": null,
+                "RedLinepositionTrackable": null,
+                "sourcing": null,
+                "RedLinesourcing": null,
+                "recurringItem": null,
+                "RedLinerecurringItem": null,
+                "etraliItem": null,
+                "RedLineetraliItem": null,
+                "productGroup": null,
+                "RedLineproductGroup": null,
+                "laborHoursRegular": null,
+                "RedLinelaborHoursRegular": null,
+                "laborHoursOvertime": null,
+                "RedLinelaborHoursOvertime": null,
+                "speakerChannels": null,
+                "RedLinespeakerChannels": null,
+                "conferenceLegs": null,
+                "RedLineconferenceLegs": null,
+                "oracle11iItemId": 123456789,
+                "RedLineoracle11iItemId": null,
+                "TransAttrVLContextInitialized": "Y",
+                "@context": {
+                    "key": "300000008247944",
+                    "headers": {
+                        "ETag": "ACED0005737200136A6176612E7574696C2E41727261794C6973747881D21D99C7619D03000149000473697A65787000000001770400000001737200116A6176612E6C616E672E496E746567657212E2A0A4F781873802000149000576616C7565787200106A6176612E6C616E672E4E756D62657286AC951D0B94E08B02000078700000000178"
+                    },
+                    "links": [
+                        {
+                            "rel": "self",
+                            "href": "https://erkb-dev1.fa.us2.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/itemsV2/100000003846901%2C300000004526886%2C100000003846901%2C300000004526886/child/ItemEffCategory/100000003846901%2C300000004526886%2C100000003850480%2C300000004526886/child/ItemEFFBIPC__Item__AttributesPrivateVO/300000008247944",
+                            "name": "ItemEFFBIPC__Item__AttributesPrivateVO",
+                            "kind": "item"
+                        },
+                        {
+                            "rel": "canonical",
+                            "href": "https://erkb-dev1.fa.us2.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/itemsV2/100000003846901%2C300000004526886%2C100000003846901%2C300000004526886/child/ItemEffCategory/100000003846901%2C300000004526886%2C100000003850480%2C300000004526886/child/ItemEFFBIPC__Item__AttributesPrivateVO/300000008247944",
+                            "name": "ItemEFFBIPC__Item__AttributesPrivateVO",
+                            "kind": "item"
+                        },
+                        {
+                            "rel": "parent",
+                            "href": "https://erkb-dev1.fa.us2.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/itemsV2/100000003846901%2C300000004526886%2C100000003846901%2C300000004526886/child/ItemEffCategory/100000003846901%2C300000004526886%2C100000003850480%2C300000004526886",
+                            "name": "ItemEffCategory",
+                            "kind": "item"
+                        }
+                    ]
+                }
+            }
+        ],
+        "count": 1,
+        "hasMore": false,
+        "limit": 24,
+        "offset": 0,
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://erkb-dev1.fa.us2.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/itemsV2/100000003846901%2C300000004526886%2C100000003846901%2C300000004526886/child/ItemEffCategory/100000003846901%2C300000004526886%2C100000003850480%2C300000004526886/child/ItemEFFBIPC__Item__AttributesPrivateVO",
+                "name": "ItemEFFBIPC__Item__AttributesPrivateVO",
+                "kind": "collection"
+            }
+        ]
+    },
+    "@context": {
+        "key": "100000003846901,300000004526886,100000003850480,300000004526886",
+        "headers": {
+            "ETag": "ACED0005737200136A6176612E7574696C2E41727261794C6973747881D21D99C7619D03000149000473697A65787000000002770400000002737200116A6176612E6C616E672E496E746567657212E2A0A4F781873802000149000576616C7565787200106A6176612E6C616E672E4E756D62657286AC951D0B94E08B0200007870000000017371007E00020000000578"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://erkb-dev1.fa.us2.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/itemsV2/100000003846901%2C300000004526886%2C100000003846901%2C300000004526886/child/ItemEffCategory/100000003846901%2C300000004526886%2C100000003850480%2C300000004526886",
+                "name": "ItemEffCategory",
+                "kind": "item"
+            },
+            {
+                "rel": "canonical",
+                "href": "https://erkb-dev1.fa.us2.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/itemsV2/100000003846901%2C300000004526886%2C100000003846901%2C300000004526886/child/ItemEffCategory/100000003846901%2C300000004526886%2C100000003850480%2C300000004526886",
+                "name": "ItemEffCategory",
+                "kind": "item"
+            },
+            {
+                "rel": "parent",
+                "href": "https://erkb-dev1.fa.us2.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/itemsV2/100000003846901%2C300000004526886%2C100000003846901%2C300000004526886",
+                "name": "itemsV2",
+                "kind": "item"
+            },
+            {
+                "rel": "child",
+                "href": "https://erkb-dev1.fa.us2.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/itemsV2/100000003846901%2C300000004526886%2C100000003846901%2C300000004526886/child/ItemEffCategory/100000003846901%2C300000004526886%2C100000003850480%2C300000004526886/child/ItemEFFBIPC__Item__AttributesPrivateVO",
+                "name": "ItemEFFBIPC__Item__AttributesPrivateVO",
+                "kind": "collection"
+            }
+        ]
+    }
+}
+
+
+----------------------------------------------------------------
+
+[{"key":"REST-Framework-Version","value":"8","description":""}]
+
+Upsert-Mode  = true

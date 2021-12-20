@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:typ="http://xmlns.oracle.com/apps/scm/productModel/items/itemServiceV2/types/" xmlns:item="http://xmlns.oracle.com/apps/scm/productModel/items/itemServiceV2/" xmlns:cat="http://xmlns.oracle.com/apps/scm/productCatalogManagement/advancedItems/flex/egoItemEff/itemSupplier/categories/" xmlns:item1="http://xmlns.oracle.com/apps/scm/productModel/items/flex/itemRevision/" xmlns:cat1="http://xmlns.oracle.com/apps/scm/productCatalogManagement/advancedItems/flex/egoItemEff/itemRevision/categories/" xmlns:cat2="http://xmlns.oracle.com/apps/scm/productCatalogManagement/advancedItems/flex/egoItemEff/item/categories/" xmlns:item2="http://xmlns.oracle.com/apps/scm/productModel/items/flex/item/" xmlns:item3="http://xmlns.oracle.com/apps/scm/productModel/items/flex/itemGdf/" xmlns:ns12="http://xmlns.oracle.com/apps/scm/productCatalogManagement/advancedItems/flex/egoItemEff/item/categories/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="http://xmlns.oracle.com/apps/scm/productModel/items/itemServiceV2/types/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <typ:updateItem>
+         <typ:item>
+            <item:ItemId>100000003864398</item:ItemId>
+            <item:OrganizationId>300000004526886</item:OrganizationId>
+            <item:ItemExtensibleFlexfieldCategoryCode>ROOT_ICC</item:ItemExtensibleFlexfieldCategoryCode>
+		  <item:ItemEffCategory xsi:type="ns12:j_ItemRootIccPrivate" xmlns:ns9="http://xmlns.oracle.com/apps/scm/productCatalogManagement/advancedItems/protectedModel/" xmlns:ns13="http://xmlns.oracle.com/apps/scm/productCatalogManagement/advancedItems/flex/egoItemEff/item/contexts/">
+				<ns12:ItemEFFBIPC__Item__AttributesPrivateVO>
+                       <ns9:ContextCode>IPC Item Attributes</ns9:ContextCode>
+                       <ns9:CategoryCode>ROOT_ICC</ns9:CategoryCode>
+                       <ns9:EffLineId>300000007282345</ns9:EffLineId>
+                       <ns9:InventoryItemId>100000003864398</ns9:InventoryItemId>
+                       <ns9:OrganizationId>300000004526886</ns9:OrganizationId>
+                       <ns13:oracle11iItemId>123</ns13:oracle11iItemId>
+                    </ns12:ItemEFFBIPC__Item__AttributesPrivateVO>
+  		  </item:ItemEffCategory>
+         </typ:item>
+      </typ:updateItem>
+   </soapenv:Body>
+</soapenv:Envelope>
